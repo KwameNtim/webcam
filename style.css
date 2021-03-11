@@ -1,0 +1,23 @@
+.booth{
+    width: 400px;
+    background-color: #cc9;
+    border: 10px solid #ddd;
+    margin: 0 auto;
+}
+
+.bcb {
+    display: block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: cornflowerblue;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+}
+
+.results{
+    width: 400px;
+    background-color: rgb(7, 248, 236);
+    border: 10px solid #ddd;
+    margin: 0 auto;
+}
